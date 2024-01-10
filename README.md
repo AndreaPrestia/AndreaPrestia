@@ -3,7 +3,7 @@
 <p> Software engineering is my strongest passion and I'm lucky that it has also become my job. </p> 
 
 <p>I started programming at the age of 13, with Javascript and C++. </p>
-<p>After graduating in a software-development-focused high school, I joined the software engineering course in Rome university. </p>
+<p>After my high-school studies focused on software development, I joined the software engineering course at the university, here in Rome (Italy). </p>
 <p>Meanwhile, I started working as a software developer when I was 20, as a consultant. Currently, I'm a freelance software engineer. </p>
 <p>I like understanding how things are built to work together and how everything is running under the hood. </p>
 
