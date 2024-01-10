@@ -1,11 +1,11 @@
-## Hi there 👋, my name is Andrea Prestia and i love to write code :)  
+## Hi there 👋, my name is Andrea Prestia and I love coding :)  
 
-<p> I'm passionate about software engineering and i'm lucky that is also my daily job. </p> 
+<p> Software engineering is my strongest passion and I'm lucky that it has also become my job. </p> 
 
-<p>I started programming at age of 13, with Javascript and C++. </p>
-<p>I have graduated in a software development focused high-school and joined the software engineering course in Rome's university. </p>
-<p>In the meantime i started working as software developer at age of 20 as consultant. Currently i'm a freelance software engineer. </p>
-<p>I like to understand how the things work together and how everything is running under the hood. </p>
+<p>I started programming at the age of 13, with Javascript and C++. </p>
+<p>After graduating in a software-development-focused high school, I joined the software engineering course in Rome university. </p>
+<p>Meanwhile, I started working as a software developer when I was 20, as a consultant. Currently, I'm a freelance software engineer. </p>
+<p>I like understanding how things are built to work together and how everything is running under the hood. </p>
 
 
 ## 🖥️ My Tech Stack:
